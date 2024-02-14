@@ -1,0 +1,7 @@
+gunicorn
+flask
+flask-bootstrap 
+flask-wtf
+hfst-dev
+uralicnlp
+nltk
