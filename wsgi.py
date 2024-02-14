@@ -12,7 +12,7 @@ import jinja2
 env = jinja2.Environment()
 env.globals.update(zip=zip)
 
-uralicApi.download("kpv")
+#uralicApi.download("kpv")
 #uralicApi.download("myv")
 
 def process_sentence(sentence, language):
